@@ -1,0 +1,123 @@
+header{
+    background-color:#f19eb3bd;
+    position:relative;
+    height: 37mm;
+    padding-bottom: 2mm;
+    margin-bottom: 10mm;
+  
+}
+header h1 {
+    background-color:#f19eb300;
+    margin-inline-start: 0em;
+    text-align: center;
+    padding-top: 5px;
+   padding-bottom: 5px;
+    border: 10px solid rgb(33 168 168 / 50%);
+    font-size: 50px;
+   font-style: oblique;
+   font-weight: bolder;
+   color: rgb(136, 82, 131);
+   border-bottom: 0px solid rgb(33 168 168 / 50%);
+  
+}
+nav{
+    text-align: center;
+    background-color:#f19eb300;
+ 
+  padding-top: 5mm;
+  margin: 0px;
+  margin-bottom:1mm;
+
+  border: 10px solid rgb(33 168 168 / 50%);
+  border-top: 0px  rgb(33 168 168 / 50%);
+  border-bottom: 10px solid rgb(33 168 168 / 50%);
+}
+header ul{
+list-style: none;
+background-color: #f19eb300;
+}
+
+header ul li{
+    text-decoration:none;
+    lighting-color:#f19eb300;
+    text-align: center;
+    display: inline-grid;
+    padding-right: 4pc;
+ margin-top: 0em;
+ margin-bottom: 0mm;
+
+}
+a {
+ text-decoration: none;
+}
+body{
+    background-color: cadetblue;
+   background-image:url('https://data.whicdn.com/images/353972719/original.jpg');
+background-repeat:unset;
+background-size: 300px;
+}
+ img{
+     height: 450px;
+ border-radius:1000px;
+ border: 8px solid rgb(33 168 168 / 50%);;
+ margin-bottom: 10mm;
+ margin-top: 10mm;
+
+ }
+p{
+    color:rgb(130 99 105);
+    font-size: 20px;
+    flex-direction:initial;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   background-color: #f7e0e6;
+   text-align: center;
+   margin-bottom: 10mm;
+}
+    #sura{
+      color: #454582;
+      background-color: #45d2d24d;
+      border: 10px solid rgb(218 147 176 / 9%);
+  }
+  
+    #rand{ 
+       color: rgb(230 0 117);
+      background-color: #f89fb6bf;
+      border: 10px solid rgb(218 147 176 / 9%);}
+
+    #rama{ color: #eca4cb;
+      background-color: rgb(4 4 4 / 82%);
+      border: 10px solid rgb(218 147 176 / 9%);
+  }
+   
+    ol{
+      background-color:forestgreen;
+      background-image: url('https://data.whicdn.com/images/352350582/original.jpg');
+      background-size: 45pc;
+      color: fuchsia;
+      font-size: xx-large;
+      text-align: center;
+      list-style-position: inside;
+
+    }
+    li::marker {
+      display: inline-block;
+      vertical-align: middle;
+    }
+    main ul{
+      background-color:forestgreen;
+      background-image: url('https://data.whicdn.com/images/353993917/original.jpg');
+      padding-bottom:2pc;
+      padding-top: 2pc;
+      padding-left: 2pc;
+      background-size: 60pc;
+      color:  rgb(175, 120, 120);
+      font-size: xx-large;
+      text-align: center;
+      list-style-position:inherit;
+      list-style-type:square;
+      
+
+    }
+    main ul li{
+      background-color: rgb(175, 120, 120);
+    }
